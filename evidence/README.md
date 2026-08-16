@@ -66,7 +66,11 @@ The IAM Policy Simulator was used to validate effective permissions.
 
 The simulator results confirm that the least-privilege policy behaves as designed.
 
----
+### Validation Screenshot
+
+![IAM Policy Simulator Validation](illustrative-policy-simulator-validation.png)
+
+> Note: The screenshot is an illustrative validation view with sensitive AWS account identifiers redacted.
 
 ## Security Concepts Demonstrated
 
